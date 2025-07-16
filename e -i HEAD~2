@@ -1,0 +1,172 @@
+[33mcommit 235af38e3a631c45febbe0de12cc8fd25baa443c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:48:49 2025 +0000
+
+    first commit
+
+[33mcommit 446ac41b946555a5e99b42485dbab72f90a60df8[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:47:32 2025 +0000
+
+    echo "# ChatBot" >> README.md
+    git init
+    git add README.md
+    git commit -m "
+
+[33mcommit abd3c72edfcc4443e3eccc750675918c03e0aa37[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:47:11 2025 +0000
+
+    puedes ayudarme a subir a github este proyecto?
+
+[33mcommit 3559f7f29fbbc324debb0a5dbc512f74a0571d9b[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:46:37 2025 +0000
+
+    cambia esa descripcion por algo mas general
+
+[33mcommit 405a043091c894e99d74a6477b81d8e459afe1e2[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:45:14 2025 +0000
+
+    ¡Hola! Soy tu Asistente CloudChat, listo para responder tus preguntas. ¿
+
+[33mcommit b69775f06c57662427f51f15085991fb730b4873[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:43:39 2025 +0000
+
+    puedes hacer que se vea algun icono o nose no me gusta que salgan letras
+
+[33mcommit 68e117e4218e42f433a6d1e8100a5b28fac30a40[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:40:42 2025 +0000
+
+    no sirve muy bien el boton de ocultar la barraa izquierda
+
+[33mcommit 466ab813734d3c06998fd5dffa34aaed4c5e5d53[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:39:14 2025 +0000
+
+    puede analizar imagenes?
+
+[33mcommit b445697068dc822ca24a7156322c60b492701590[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:34:31 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit e615961f16ddcc0cfa4dc08b3129804ed03a44a5[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:33:48 2025 +0000
+
+    en la parte de la izquierda puedes ayudarme a que la barra izquierda sea
+
+[33mcommit 1cad6c9137ac1f842dbe81377864a362902348c9[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Tue Jul 15 15:31:38 2025 +0000
+
+    ponle predefinido el idioma español y mejora completamente la interfaz
+
+[33mcommit 50d86719e3b9a5114161c34ce2a94de269831a23[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Tue Jul 15 15:24:43 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit 5bc555db2cac1248a7a6c5fdc1c413a6d85ab8b3[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 9 13:47:08 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit 3696b985821e479c67d5df8a827367dc3f8fe172[m
+Author: Your Name <you@example.com>
+Date:   Wed Jun 25 14:01:52 2025 +0000
+
+    initial scaffold
+[33mcommit 235af38e3a631c45febbe0de12cc8fd25baa443c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:48:49 2025 +0000
+
+    first commit
+
+[33mcommit 446ac41b946555a5e99b42485dbab72f90a60df8[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:47:32 2025 +0000
+
+    echo "# ChatBot" >> README.md
+    git init
+    git add README.md
+    git commit -m "
+
+[33mcommit abd3c72edfcc4443e3eccc750675918c03e0aa37[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:47:11 2025 +0000
+
+    puedes ayudarme a subir a github este proyecto?
+
+[33mcommit 3559f7f29fbbc324debb0a5dbc512f74a0571d9b[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:46:37 2025 +0000
+
+    cambia esa descripcion por algo mas general
+
+[33mcommit 405a043091c894e99d74a6477b81d8e459afe1e2[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:45:14 2025 +0000
+
+    ¡Hola! Soy tu Asistente CloudChat, listo para responder tus preguntas. ¿
+
+[33mcommit b69775f06c57662427f51f15085991fb730b4873[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:43:39 2025 +0000
+
+    puedes hacer que se vea algun icono o nose no me gusta que salgan letras
+
+[33mcommit 68e117e4218e42f433a6d1e8100a5b28fac30a40[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:40:42 2025 +0000
+
+    no sirve muy bien el boton de ocultar la barraa izquierda
+
+[33mcommit 466ab813734d3c06998fd5dffa34aaed4c5e5d53[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:39:14 2025 +0000
+
+    puede analizar imagenes?
+
+[33mcommit b445697068dc822ca24a7156322c60b492701590[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:34:31 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit e615961f16ddcc0cfa4dc08b3129804ed03a44a5[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 16 15:33:48 2025 +0000
+
+    en la parte de la izquierda puedes ayudarme a que la barra izquierda sea
+
+[33mcommit 1cad6c9137ac1f842dbe81377864a362902348c9[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Tue Jul 15 15:31:38 2025 +0000
+
+    ponle predefinido el idioma español y mejora completamente la interfaz
+
+[33mcommit 50d86719e3b9a5114161c34ce2a94de269831a23[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Tue Jul 15 15:24:43 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit 5bc555db2cac1248a7a6c5fdc1c413a6d85ab8b3[m
+Author: Damian Portilla <damianportilla59@gmail.com>
+Date:   Wed Jul 9 13:47:08 2025 +0000
+
+    I see this error with the app, reported by NextJS, please fix it. The er
+
+[33mcommit 3696b985821e479c67d5df8a827367dc3f8fe172[m
+Author: Your Name <you@example.com>
+Date:   Wed Jun 25 14:01:52 2025 +0000
+
+    initial scaffold
